@@ -1,0 +1,11 @@
+C:\Users\gal-b\Desktop\WcfCalculatorService\WcfCalculatorService\bin\Debug\WcfCalculatorService.dll.config
+C:\Users\gal-b\Desktop\WcfCalculatorService\WcfCalculatorService\bin\Debug\WcfCalculatorService.dll
+C:\Users\gal-b\Desktop\WcfCalculatorService\WcfCalculatorService\bin\Debug\WcfCalculatorService.pdb
+C:\Users\gal-b\Desktop\WcfCalculatorService\WcfCalculatorService\obj\Debug\WcfCalculatorService.dll
+C:\Users\gal-b\Desktop\WcfCalculatorService\WcfCalculatorService\obj\Debug\WcfCalculatorService.pdb
+K:\Students\C# שנה ג 2019\WCF\WcfCalculatorService\WcfCalculatorService\bin\Debug\WcfCalculatorService.dll.config
+K:\Students\C# שנה ג 2019\WCF\WcfCalculatorService\WcfCalculatorService\bin\Debug\WcfCalculatorService.dll
+K:\Students\C# שנה ג 2019\WCF\WcfCalculatorService\WcfCalculatorService\bin\Debug\WcfCalculatorService.pdb
+K:\Students\C# שנה ג 2019\WCF\WcfCalculatorService\WcfCalculatorService\obj\Debug\WcfCalculatorService.csprojResolveAssemblyReference.cache
+K:\Students\C# שנה ג 2019\WCF\WcfCalculatorService\WcfCalculatorService\obj\Debug\WcfCalculatorService.dll
+K:\Students\C# שנה ג 2019\WCF\WcfCalculatorService\WcfCalculatorService\obj\Debug\WcfCalculatorService.pdb

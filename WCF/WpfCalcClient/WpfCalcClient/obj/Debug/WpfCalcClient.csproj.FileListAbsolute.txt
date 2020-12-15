@@ -1,0 +1,26 @@
+C:\Users\gal-b\Desktop\WpfCalcClient\WpfCalcClient\bin\Debug\WpfCalcClient.exe.config
+C:\Users\gal-b\Desktop\WpfCalcClient\WpfCalcClient\bin\Debug\WpfCalcClient.exe
+C:\Users\gal-b\Desktop\WpfCalcClient\WpfCalcClient\bin\Debug\WpfCalcClient.pdb
+C:\Users\gal-b\Desktop\WpfCalcClient\WpfCalcClient\obj\Debug\WpfCalcClient.csprojResolveAssemblyReference.cache
+C:\Users\gal-b\Desktop\WpfCalcClient\WpfCalcClient\obj\Debug\MainWindow.baml
+C:\Users\gal-b\Desktop\WpfCalcClient\WpfCalcClient\obj\Debug\MainWindow.g.cs
+C:\Users\gal-b\Desktop\WpfCalcClient\WpfCalcClient\obj\Debug\App.g.cs
+C:\Users\gal-b\Desktop\WpfCalcClient\WpfCalcClient\obj\Debug\WpfCalcClient_MarkupCompile.cache
+C:\Users\gal-b\Desktop\WpfCalcClient\WpfCalcClient\obj\Debug\WpfCalcClient.g.resources
+C:\Users\gal-b\Desktop\WpfCalcClient\WpfCalcClient\obj\Debug\WpfCalcClient.Properties.Resources.resources
+C:\Users\gal-b\Desktop\WpfCalcClient\WpfCalcClient\obj\Debug\WpfCalcClient.csproj.GenerateResource.Cache
+C:\Users\gal-b\Desktop\WpfCalcClient\WpfCalcClient\obj\Debug\WpfCalcClient.exe
+C:\Users\gal-b\Desktop\WpfCalcClient\WpfCalcClient\obj\Debug\WpfCalcClient.pdb
+K:\Students\C# שנה ג 2019\WCF\WpfCalcClient\WpfCalcClient\bin\Debug\WpfCalcClient.exe.config
+K:\Students\C# שנה ג 2019\WCF\WpfCalcClient\WpfCalcClient\obj\Debug\WpfCalcClient.exe
+K:\Students\C# שנה ג 2019\WCF\WpfCalcClient\WpfCalcClient\obj\Debug\WpfCalcClient.pdb
+K:\Students\C# שנה ג 2019\WCF\WpfCalcClient\WpfCalcClient\bin\Debug\WpfCalcClient.exe
+K:\Students\C# שנה ג 2019\WCF\WpfCalcClient\WpfCalcClient\bin\Debug\WpfCalcClient.pdb
+K:\Students\C# שנה ג 2019\WCF\WpfCalcClient\WpfCalcClient\obj\Debug\WpfCalcClient.csprojResolveAssemblyReference.cache
+K:\Students\C# שנה ג 2019\WCF\WpfCalcClient\WpfCalcClient\obj\Debug\MainWindow.baml
+K:\Students\C# שנה ג 2019\WCF\WpfCalcClient\WpfCalcClient\obj\Debug\MainWindow.g.cs
+K:\Students\C# שנה ג 2019\WCF\WpfCalcClient\WpfCalcClient\obj\Debug\App.g.cs
+K:\Students\C# שנה ג 2019\WCF\WpfCalcClient\WpfCalcClient\obj\Debug\WpfCalcClient_MarkupCompile.cache
+K:\Students\C# שנה ג 2019\WCF\WpfCalcClient\WpfCalcClient\obj\Debug\WpfCalcClient.g.resources
+K:\Students\C# שנה ג 2019\WCF\WpfCalcClient\WpfCalcClient\obj\Debug\WpfCalcClient.Properties.Resources.resources
+K:\Students\C# שנה ג 2019\WCF\WpfCalcClient\WpfCalcClient\obj\Debug\WpfCalcClient.csproj.GenerateResource.Cache

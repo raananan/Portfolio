@@ -1,0 +1,12 @@
+C:\Users\gal-b\Desktop\WateringWCF\WateringWCF\bin\Debug\WateringWCF.dll.config
+C:\Users\gal-b\Desktop\WateringWCF\WateringWCF\bin\Debug\WateringWCF.dll
+C:\Users\gal-b\Desktop\WateringWCF\WateringWCF\bin\Debug\WateringWCF.pdb
+C:\Users\gal-b\Desktop\WateringWCF\WateringWCF\obj\Debug\WateringWCF.dll
+C:\Users\gal-b\Desktop\WateringWCF\WateringWCF\obj\Debug\WateringWCF.pdb
+C:\Users\gal-b\Desktop\WateringWCF\WateringWCF\obj\Debug\WateringWCF.csprojResolveAssemblyReference.cache
+K:\Students\C# שנה ג 2019\WCF\WateringWCF\WateringWCF\bin\Debug\WateringWCF.dll.config
+K:\Students\C# שנה ג 2019\WCF\WateringWCF\WateringWCF\bin\Debug\WateringWCF.dll
+K:\Students\C# שנה ג 2019\WCF\WateringWCF\WateringWCF\bin\Debug\WateringWCF.pdb
+K:\Students\C# שנה ג 2019\WCF\WateringWCF\WateringWCF\obj\Debug\WateringWCF.csprojResolveAssemblyReference.cache
+K:\Students\C# שנה ג 2019\WCF\WateringWCF\WateringWCF\obj\Debug\WateringWCF.dll
+K:\Students\C# שנה ג 2019\WCF\WateringWCF\WateringWCF\obj\Debug\WateringWCF.pdb
