@@ -1,0 +1,108 @@
+
+<html>
+
+
+<head>
+    
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="description" content="">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link type="text/css" rel="stylesheet" href="style.css">
+     <link type="text/css" rel="stylesheet" href="bootstrap.min.css">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet"/>
+    
+  
+ <script src="jquery.js"></script>
+   <script src="clue.js"></script>
+  <script>
+  $(document).ready(function(){
+ 
+    $("p1").hide(0);
+  
+});
+      $(document).ready(function(){
+ 
+    $("p2").hide(0);
+  
+});
+   
+  </script>
+    <script src="clue_script"></script>
+</head>
+
+<body class="backgound" class="col-l-9 col-m-6 col-s-12">
+
+<header> 
+<h1 id="header" align="center">? מה מסתתר מאחורי התמונה</h1>
+ 
+ </header>
+  <aside id="aside">
+    
+     <p id="scores">ניקוד</p>
+     <p id="points" value="func1()"></p>
+     <button id="clue" onclick="ShowClue()">רמז</button>
+     <br>
+     <p2 id="clue_in">אפשר ללחוץ על אחת מהקוביות ולהעלים אותה אך זה יעלה לך בכ 10 נקודות</p2>
+ </aside>
+    <div class="container" >
+  <img id="dog" class="img" src="pics/kelev.jpg"  style="width:50%;">
+ 
+  <div id="hide_1" class="ex1" class="col-l-9 col-m-6 col-s-12">1</div>
+  <div id="hide_2" class="ex1" class="col-l-9 col-m-6 col-s-12">?</div>
+  <div id="hide_3" class="ex1" class="col-l-9 col-m-6 col-s-12">?</div>
+  <div id="hide_4" class="ex1" class="col-l-9 col-m-6 col-s-12">?</div>
+  <div id="hide_5" class="ex1" class="col-l-9 col-m-6 col-s-12">?</div>
+  <div id="hide_6" class="ex1" class="col-l-9 col-m-6 col-s-12">?</div>
+  <div id="hide_7" class="ex1" class="col-l-9 col-m-6 col-s-12">?</div>
+  <div id="hide_8" class="ex1" class="col-l-9 col-m-6 col-s-12">?</div>
+  <div id="hide_9" class="ex1" class="col-l-9 col-m-6 col-s-12">?</div>
+  <div id="hide_10" class="ex1" class="col-l-9 col-m-6 col-s-12">?</div>
+  <div id="hide_11" class="ex1" class="col-l-9 col-m-6 col-s-12">?</div>
+  <div id="hide_12" class="ex1" class="col-l-9 col-m-6 col-s-12">?</div>
+  <div id="hide_13" class="ex1" class="col-l-9 col-m-6 col-s-12">?</div>
+  <div id="hide_14" class="ex1" class="col-l-9 col-m-6 col-s-12">?</div>
+   
+  
+</div>
+   
+ <input dir="rtl" id="intexet" class="text_insert" value="-  -  -">
+     <p1 id="answer"></p1>
+    
+     <div  class="Letters" align="center" >
+        
+        <div class="row_btns">
+         
+     
+<button id="myButton1"   class="btn_letter" onclick="InsertLetter('myButton1')"></button>
+   <button id="myButton2" class="btn_letter" onclick="InsertLetter('myButton2')"></button>
+          <button id="myButton3" class="btn_letter" onclick="InsertLetter('myButton3')"></button>
+           <button id="myButton4" class="btn_letter" onclick="InsertLetter('myButton4')"></button>
+               <button id="myButton5" class="btn_letter" onclick="InsertLetter('myButton5')"></button>
+            <button id="myButton6" class="btn_letter" onclick="InsertLetter('myButton6')"></button>
+              <button id="myButton7" class="btn_letter" onclick="InsertLetter('myButton7')"></button>
+                <button id="myButton8" class="btn_letter" onclick="InsertLetter('myButton8')"></button>
+                              
+                </div>
+               <div class="row_btns">
+     <button id="myButton9"  class="btn_letter" onclick="InsertLetter('myButton9')"></button>
+   <button id="myButton10" class="btn_letter" onclick="InsertLetter('myButton10')"></button>
+          <button id="myButton11" class="btn_letter" onclick="InsertLetter('myButton11')"></button>
+           <button id="myButton12" class="btn_letter" onclick="InsertLetter('myButton12')"></button>
+               <button id="myButton13" class="btn_letter" onclick="InsertLetter('myButton13')"></button>
+            <button id="myButton14" class="btn_letter" onclick="InsertLetter('myButton14')"></button>
+              <button id="myButton15" class="btn_letter" onclick="InsertLetter('myButton15')"></button>
+                   <button id="myButton16" class="btn_letter" onclick="InsertLetter('myButton16')"></button>
+               
+                    <script src="script_dog.js" ></script>
+                
+ 
+                  
+                </div>
+     </div>
+     
+   
+
+
+</body>
+</html>
