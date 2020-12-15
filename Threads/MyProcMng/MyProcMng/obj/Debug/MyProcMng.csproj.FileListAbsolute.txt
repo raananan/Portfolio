@@ -1,0 +1,13 @@
+C:\Users\gal-b\Desktop\MyProcMng\MyProcMng\bin\Debug\MyProcMng.exe.config
+C:\Users\gal-b\Desktop\MyProcMng\MyProcMng\bin\Debug\MyProcMng.exe
+C:\Users\gal-b\Desktop\MyProcMng\MyProcMng\bin\Debug\MyProcMng.pdb
+C:\Users\gal-b\Desktop\MyProcMng\MyProcMng\obj\Debug\MyProcMng.csprojResolveAssemblyReference.cache
+C:\Users\gal-b\Desktop\MyProcMng\MyProcMng\obj\Debug\MainWindow.baml
+C:\Users\gal-b\Desktop\MyProcMng\MyProcMng\obj\Debug\MainWindow.g.cs
+C:\Users\gal-b\Desktop\MyProcMng\MyProcMng\obj\Debug\App.g.cs
+C:\Users\gal-b\Desktop\MyProcMng\MyProcMng\obj\Debug\MyProcMng_MarkupCompile.cache
+C:\Users\gal-b\Desktop\MyProcMng\MyProcMng\obj\Debug\MyProcMng.g.resources
+C:\Users\gal-b\Desktop\MyProcMng\MyProcMng\obj\Debug\MyProcMng.Properties.Resources.resources
+C:\Users\gal-b\Desktop\MyProcMng\MyProcMng\obj\Debug\MyProcMng.csproj.GenerateResource.Cache
+C:\Users\gal-b\Desktop\MyProcMng\MyProcMng\obj\Debug\MyProcMng.exe
+C:\Users\gal-b\Desktop\MyProcMng\MyProcMng\obj\Debug\MyProcMng.pdb
